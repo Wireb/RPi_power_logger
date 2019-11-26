@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RPi_power_logger-rescue)(type Legacy)(uri ${KIPRJMOD}/RPi_power_logger-rescue.lib)(options "")(descr ""))
+)
