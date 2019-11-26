@@ -18,6 +18,7 @@ my $stop_time = 0;						# in s 0 = run forever
 # constants (See INA233 datasheet for more info!!)
 my $max_current = 2;	# in Amps
 my $R_shunt = 0.075;  	# in Ohms
+```
 
 ## Power_data.csv
 This is a sample raw CSV file as produced by the above Perl script.
@@ -26,7 +27,7 @@ Note only channle 0 was enabled in this sample. If channels 1 - 8 were enabled t
 
 ## Sample_graph.xlsx
 Example Microsoft Excel spreadsheet with a graph of the sample data. 
-```
+
 
 
 
