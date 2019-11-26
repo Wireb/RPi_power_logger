@@ -2,6 +2,7 @@
 This is the main Perl script for data logging. 
 Edit the file in any text editor to configure the following:
 
+```perl
 ############################
 # configuration value start
 ############################
@@ -25,7 +26,7 @@ Note only channle 0 was enabled in this sample. If channels 1 - 8 were enabled t
 
 ## Sample_graph.xlsx
 Example Microsoft Excel spreadsheet with a graph of the sample data. 
-
+```
 
 
 
